@@ -4,4 +4,4 @@ Pizzeria Mamma Mia!
 
 Para revisar el desafío ingresa a:
 
-- [Pages Pizzería Mamma Mía!]([https://github.com/jcorellanamo/desafio1_react](https://jcorellanamo.github.io/desafio1_react))
+- [Pages Pizzería Mamma Mía!](https://jcorellanamo.github.io/desafio1_react)

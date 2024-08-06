@@ -2,6 +2,6 @@
 
 Pizzeria Mamma Mia!
 
-Currently, two official plugins are available:
+Para revisar el desafío ingresa a:
 
 - [Pages Pizzería Mamma Mía!](https://github.com/jcorellanamo/desafio1_react)
